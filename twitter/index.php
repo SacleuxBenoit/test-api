@@ -25,7 +25,7 @@ Tweets by Benoit_dev_</a>
        data-show-screen-name="false"
        data-size="large"
   >
-Follow @TwitterDev</a>
+Follow @Benoit_dev_</a>
 </div>
 </body>
 </html>
