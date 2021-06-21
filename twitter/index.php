@@ -21,7 +21,10 @@ Tweets by Benoit_dev_</a>
 <div>
     <h1>follow button</h1>
     <a class="twitter-follow-button"
-  href="https://twitter.com/Benoit_dev_">
+       href="https://twitter.com/Benoit_dev_"
+       data-show-screen-name="false"
+       data-size="large"
+  >
 Follow @TwitterDev</a>
 </div>
 </body>
