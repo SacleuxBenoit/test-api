@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-<a class="twitter-timeline" href="https://twitter.com/Benoit_dev_?ref_src=twsrc%5Etfw">Tweets by Benoit_dev_</a> 
+<a class="twitter-timeline" href="https://twitter.com/Benoit_dev_?ref_src=twsrc%5Etfw" data-width="800" data-height="300">Tweets by Benoit_dev_</a> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </body>
