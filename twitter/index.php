@@ -8,14 +8,21 @@
 </head>
 <body>
 <a class="twitter-timeline" href="https://twitter.com/Benoit_dev_?ref_src=twsrc%5Etfw" 
-    data-width="500" 
-    data-height="300" 
+    data-width="200" 
+    data-height="200" 
     data-chrome="noheader"
     data-chrome="noborders"
-    data-tweet-limit="3"
+    data-tweet-limit="2"
     >
 Tweets by Benoit_dev_</a> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+<div>
+    <h1>follow button</h1>
+    <a class="twitter-follow-button"
+  href="https://twitter.com/Benoit_dev_">
+Follow @TwitterDev</a>
+</div>
 </body>
 </html>
